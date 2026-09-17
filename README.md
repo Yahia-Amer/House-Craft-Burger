@@ -34,7 +34,7 @@ The project was built as a front-end practice project with a focus on layout, re
 
 ## Live Demo
 
-Add the GitHub Pages link here.
+https://yahia-amer.github.io/House-Craft-Burger/
 
 ## Project Structure
 
